@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613870458 source:c:\users\mauro\documents\programacion 2 mauro\pilas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
